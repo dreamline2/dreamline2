@@ -22,9 +22,7 @@
 <!-- ![TensorFlow](https://img.shields.io/badge/-TensorFlow-000?&logo=TensorFlow) -->
 <!-- ![Kubernetes](https://img.shields.io/badge/-Kubernetes-000?&logo=Kubernetes) -->
 
-## Skill Set
-
-## UI
+### UI
 - Sketch
 - Figma
 - Semi Design
