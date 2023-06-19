@@ -51,5 +51,12 @@
 - Sentry
 - Docker/ Docker Compose
 
+### Communities
+- JSconf Volunteer
+- Pyconf Partner
+- Rubyconf Partner
+- LaraGirls Organizer
+- Show me the code Taiwan Organizer
+
 <!-- ## TODO Milestone -->
 
